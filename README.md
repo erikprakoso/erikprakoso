@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erikprakoso" alt="erikprakoso" /></a> </p>
 
-- 🌱 I’m currently learning **React.js and React Native**
+- 🌱 I’m currently learning **NestJS, React.js and React Native**
 
 - 👯 I’m looking to collaborate on **Web development with React.js and mobile app development with React Native Project**
 
